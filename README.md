@@ -6,11 +6,11 @@
 
 1. Run 'npm install' from the terminal in the root directory of the forked/cloned repo
 
-2. Run 'npm start' from the terminal to open a prompt for advanced users ( no error message / informations / undo)
+2. Run 'npm start' from the terminal to open a prompt for advanced users ( no error message / no help command / no undo command )
 
-3. when finished inputing type your favorite vim commands :
+3. Once you are finished inputing, then type your favorite vim commands :
 
-   => ':wq' to save aand output result
+   => ':wq' to save and output result
 
    => ':q' to exit
 
