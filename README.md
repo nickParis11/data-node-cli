@@ -8,18 +8,18 @@
 
 3. when finished inputing type your favorite vim commands :
 
-   => :wq to save aand output result
+   => ':wq' to save aand output result
 
-   => :q to exit
+   => ':q' to exit
 
-   => :q! to exit without saving
+   => ':q!'' to exit without saving
 
-4. to use the more graphical CLI, run 'npm run start-cli'. once in the CLI :
+4. to use the more graphical CLI, run 'npm run start-cli'. Once in the CLI :
 
-  => type your different input step by step following the prompted instructions
+	 => type your different input step by step following the prompted instructions
 
-  => run 'robot run' to display the result 
+	 => run 'robot run' to display the result 
 
-  => run 'robot help' to display informations about all commands
+	 => run 'robot help' to display informations about all commands
 
-  => run 'robot exit' to exit CLI
+	 => run 'robot exit' to exit CLI
