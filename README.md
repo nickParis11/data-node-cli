@@ -2,6 +2,8 @@
 
 ## How To Get Started
 
+0. We assume that you already have node and npm installed
+
 1. Run 'npm install' from the terminal in the root directory of the forked/cloned repo
 
 2. Run 'npm start' from the terminal to open a prompt for advanced users ( no error message / informations / undo)
