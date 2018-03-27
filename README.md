@@ -12,7 +12,7 @@
 
    => ':q' to exit
 
-   => ':q!'' to exit without saving
+   => ':q!' to exit without saving
 
 4. to use the more graphical CLI, run 'npm run start-cli'. Once in the CLI :
 
