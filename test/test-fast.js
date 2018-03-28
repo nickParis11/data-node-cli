@@ -416,6 +416,11 @@ describe('Robot algorithm - no or fake moves', function() {
 
 });
 
+/*
+
+log('testing ....')
+log('\n\n****  please wait, it may take a while to compute all possibilities  ****')
+
 describe('Robot algorithm - 10 000 moves', function() {
 
  const letters = ['N','S','E','W'];
@@ -444,3 +449,4 @@ describe('Robot algorithm - 10 000 moves', function() {
  });
 
 });
+*/
