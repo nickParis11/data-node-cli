@@ -30,4 +30,5 @@
 	 Please note that it will run the full suite of tests, including very long to execute ones ( which simulates 10.000 moves of up to 100.000 each) 
 
 	 => to run only the lightweight tests, run 'npm run test-fast'
+	 
 	 => to run only the heavyweight tests, run 'npm run test-long'
