@@ -5,6 +5,8 @@
   "main": "input.js",
   "scripts": {
     "test": "mocha",
+    "test-fast" : "mocha test/test-fast.js",
+    "test-long" : "mocha test/test-long.js",
     "start": "node input.js",
     "start-cli": "node CLI.js"
   },
